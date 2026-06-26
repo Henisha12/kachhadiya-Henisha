@@ -198,18 +198,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 });
 
-// =============================
-// LOADING ANIMATION
-// =============================
-
-window.addEventListener("load", () => {
-
-    document.body.style.opacity = "1";
-
-});
-
-document.body.style.opacity = "0";
-document.body.style.transition = "opacity .8s";
 
 // =============================
 // CONSOLE MESSAGE

@@ -887,11 +887,11 @@ color:var(--primary);
 font-size:14px;
 
 }
-/*=========================
+/* /*=========================
 LOADER
 =========================*/
 
-#loader{
+/* #loader{
 
 position:fixed;
 
@@ -951,7 +951,7 @@ margin-top:25px;
 
 color:white;
 
-}
+} */ */
 
 /*=========================
 SCROLL BAR
