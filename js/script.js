@@ -315,7 +315,7 @@ progress+"%";
 });
 
 YOUR_PUBLIC_KEY
-emailjs.init("YOUR_PUBLIC_KEY");
+emailjs.init("Dfeb8Pip3bBAEuIAb");
 
 const form = document.getElementById("contact-form");
 
@@ -325,9 +325,9 @@ e.preventDefault();
 
 emailjs.sendForm(
 
-"YOUR_SERVICE_ID",
+"service_4wsr914",
 
-"YOUR_TEMPLATE_ID",
+"template_qumj5rs",
 
 this
 
